@@ -1,4 +1,4 @@
 # sudoku-challenge
 
 
-<img src="https://files.slack.com/files-pri/T2MMTCBPH-F4YSJBANQ/screen_shot_2017-04-13_at_9.34.21_am.png"/>
+<img src="https://github.com/bbcrabb/sudoku-challenge/blob/master/Screen%20Shot%202017-04-13%20at%209.34.21%20AM.png"/>
